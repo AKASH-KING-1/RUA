@@ -8,7 +8,7 @@
 <tr>
 <td align="center">
 <h1 style="color: #ff0055; font-family: 'Arial Black', sans-serif; font-size: 40px; margin-bottom: 5px;">🔥 AKASH KING OFFICIAL PROFILE 🔥</h1>
-<p style="color: #00ffff; font-size: 18px; font-weight: bold;">⚡ Cyber Security Specialist & Graphic Designer ⚡</p>
+<p style="color: #00ffff; font-size: 18px; font-weight: bold;">⚡ MY TOOLS ONLY PAID ONE WEEK USE ONE TIME FIRE TOOLS ⚡</p>
 <hr style="border: none; height: 3px; background: linear-gradient(to right, #00ff00, #ff00ff); width: 85%; margin: 15px 0;" />
 <h2 style="color: #00ff00; font-family: 'Arial Black', sans-serif; letter-spacing: 2px;">🛠️ TOOLS 🛠️</h2>
 <img src="https://github.com/AKASH-KING-1/RUA/blob/main/1000002781.jpg?raw=true" alt="Akash King Tool Screenshot" width="85%" style="border: 5px solid #ff0055; border-radius: 15px; box-shadow: 0px 0px 25px #ff0055;" />
@@ -19,7 +19,7 @@
 </div>
 <hr style="border: none; height: 2px; background: #ff007f; width: 80%; margin: 15px 0;" />
 <h3>🌐 CONNECT WITH ME 🌐</h3>
-<a href="https://wa.me/8801622094293" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" /></a>
+<a href="https://chat.whatsapp.com/DI9a98yEotkJYiPgMWyoZN" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/AKASH_ON_FIRE_8" target="_blank"><img src="https://img.shields.io/badge/Telegram-Join%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white&color=ff0055" height="40" /></a>
 <br /><br />
