@@ -11,7 +11,7 @@
 <p style="color: #00ffff; font-size: 18px; font-weight: bold;">⚡ Cyber Security Specialist & Graphic Designer ⚡</p>
 <hr style="border: none; height: 3px; background: linear-gradient(to right, #00ff00, #ff00ff); width: 85%; margin: 15px 0;" />
 <h2 style="color: #00ff00; font-family: 'Arial Black', sans-serif; letter-spacing: 2px;">🛠️ TOOLS 🛠️</h2>
-<img src="https://raw.githubusercontent.com/AKASH-KING-1/RUA/main/1000002781.jpg" alt="Akash King Tool Screenshot" width="85%" style="border: 5px solid #ff0055; border-radius: 15px; box-shadow: 0px 0px 25px #ff0055;" />
+<img src="https://github.com/AKASH-KING-1/RUA/blob/main/1000002781.jpg?raw=true" alt="Akash King Tool Screenshot" width="85%" style="border: 5px solid #ff0055; border-radius: 15px; box-shadow: 0px 0px 25px #ff0055;" />
 <hr style="border: none; height: 3px; background: linear-gradient(to right, #ff0000, #0000ff); width: 85%; margin: 25px 0;" />
 <div>
 <img src="https://img.shields.io/badge/VIP%20Users-200%20Active-brightgreen?style=for-the-badge&logo=facebook&logoColor=white&color=ff0000" height="35" />
