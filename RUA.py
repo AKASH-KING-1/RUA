@@ -1,3 +1,1 @@
-import os
-try:import LL
-except: pass
+import LL
