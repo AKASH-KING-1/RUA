@@ -6,4 +6,4 @@ except ImportError:
     sys.exit()
 
 if __name__ == "__main__":
-    LL.main1()
+    LL.approval()
