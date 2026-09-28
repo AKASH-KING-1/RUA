@@ -21,7 +21,7 @@
 <br />
 
 <a href="https://github.com/AKASH-KING-1/RUA/blob/main/1000002781.jpg?raw=true">
-<img src="https://github.com/AKASH-KING-1/RUA/blob/main/Screenshot_20260401-101454.jpg" alt="AKASH KING TOOL SCREENSHOT" width="85%" />
+<img src="https://github.com/AKASH-KING-1/RUA/blob/main/Screenshot_2026001-101454.jpg" alt="AKASH KING TOOL SCREENSHOT" width="85%" />
 </a>
 
 <br /><br />
